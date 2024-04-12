@@ -1,0 +1,14 @@
+{
+    "name": "maria/namespace",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maria Werlang"
+        }
+    ],
+    "require": {}
+}
